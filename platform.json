@@ -50,7 +50,7 @@
   "packages": {
     "toolchain-gccarmnoneeabi": {
       "type": "toolchain",
-      "version": "=1.80301.190214"
+      "version": "=1.90201.191206"
     },
     "framework-mbed": {
       "type": "framework",
